@@ -16,3 +16,4 @@ void Recursive(int number_a){
 Console.Write("Enter the number N: ");
 int N = Convert.ToInt32(Console.ReadLine());
 Recursive(N);
+

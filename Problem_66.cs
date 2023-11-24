@@ -16,3 +16,4 @@ int number_a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Enter the number_b: ");
 int number_b = Convert.ToInt32(Console.ReadLine());
 Console.Write("\nSum of number from N to N: " + Recursive(number_a, number_b));
+
